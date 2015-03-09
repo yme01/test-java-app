@@ -1,0 +1,13 @@
+Buongiorno,
+
+per compilare il package scrivere:
+
+javac -d .  *.java
+
+e per eseguire :
+
+java -classpath . treD/Oggetto3D
+
+Arrivederci,
+Giacomo Mazzocato
+
